@@ -27,4 +27,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Lorem ipsum dolor sit amet.
 
-[Click me](https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io/docs/README.md){: .btn}
+[Click me](https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io/blob/master/docs/file1.rtf){: .btn}
