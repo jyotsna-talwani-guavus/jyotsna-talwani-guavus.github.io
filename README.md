@@ -20,7 +20,7 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 <!-- color: #fff -->
 <!-- font: frutiger -->
 
-![An awesome example image](/images/path/to/folder/image.png)*My caption*
+![An awesome example image](/https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io/docs/images.jpeg)*My caption*
 
 [Click me](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
 
