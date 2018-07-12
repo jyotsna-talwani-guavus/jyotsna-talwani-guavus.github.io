@@ -29,3 +29,4 @@ Lorem ipsum dolor sit amet.
 
 [Click me](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
 [Click me](https://github.com/Guavus/tp-demo){: .btn}
+<a href="https://github.com/pages-themes/time-machine/zipball/master" class="download-button zip"><span>Download</span></a>
