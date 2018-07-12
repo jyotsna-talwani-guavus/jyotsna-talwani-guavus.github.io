@@ -8,13 +8,16 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 * Development becomes faster as programmers learn to use unit tests, code coverage, and continuous integration
 * Programmers learn to document their code better, both formally (as in-code comments and documentation) 
 
-<!-- background: #ff786c-->
-<!-- color: #fff -->
+<background: #ff786c>
+<color: #fff>
+
+<div class="link-button-container">
+            <!-- ngIf: ::service.site_button --><a class="link-button ng-binding ng-scope" ng-if="::service.site_button" ng-href="https://cafdataprocessing.github.io/data-processing-service" ng-bind="::service.site_button.text" href="https://cafdataprocessing.github.io/data-processing-service">Data Processing Site</a><!-- end ngIf: ::service.site_button -->
+            <!-- ngIf: ::service.repository_button --><a class="link-button ng-binding ng-scope" ng-if="::service.repository_button" ng-href="https://github.com/CAFDataProcessing/data-processing-service" ng-bind="::service.repository_button.text" href="https://github.com/CAFDataProcessing/data-processing-service">Data Processing on GitHub</a><!-- end ngIf: ::service.repository_button -->
+          </div>
 
 <div style="background-color:rgb(192, 192, 192); text-align:center; vertical-align: middle; padding:40px 0;">
-[Click me](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
 
-[Click me](https://github.com/Guavus/tp-demo){: .btn}
  </div>
 
 <span style="color:red"> *some emphasized markdown text* </span>
@@ -24,6 +27,8 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 
 Lorem ipsum dolor sit amet.
 
+[Click me](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
 
+[Click me](https://github.com/Guavus/tp-demo){: .btn}
 <a href="https://github.com/pages-themes/time-machine/zipball/master" class="download-button zip"><span>Download</span></a>
 
