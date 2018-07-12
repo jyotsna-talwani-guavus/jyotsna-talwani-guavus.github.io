@@ -14,13 +14,8 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 
 <span style="color:red"> *some emphasized markdown text* </span>
 
-![Presenting](https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjIm6DupJrcAhVKP48KHf10BQ4QjRx6BAgBEAU&url=https%3A%2F%2Fguavus.com%2Fproducts%2Fguavus-reflex-platform%2F&psig=AOvVaw3aFpx7xUZ1JrVrg5V_lXmI&ust=1531509816776388)
 
-<!-- background: #f39b12 -->
-<!-- color: #fff -->
-<!-- font: frutiger -->
-
-![An awesome example image](https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io/blob/master/docs/images.jpeg)*My caption*
+![An awesome example image](https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io/blob/master/docs/gitlab.png)
 
 [Click me](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
 
