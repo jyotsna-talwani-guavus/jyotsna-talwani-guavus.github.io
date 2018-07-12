@@ -13,7 +13,7 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 
 ## Just swipe
 
-<span style="color:red"> *some emphasized markdown text*</span>
+<span style="color:red"> *some emphasized markdown text* </span>
 
 ![Presenting](https://www.swipe.to/perm-static/intro/presenting-devices.png)
 
