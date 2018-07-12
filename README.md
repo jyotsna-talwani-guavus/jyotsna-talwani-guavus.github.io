@@ -20,6 +20,8 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 <!-- color: #fff -->
 <!-- font: frutiger -->
 
+![An awesome example image](/images/path/to/folder/image.png)*My caption*
+
 [Click me](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
 
 [Click me](https://github.com/Guavus/tp-demo){: .btn}
