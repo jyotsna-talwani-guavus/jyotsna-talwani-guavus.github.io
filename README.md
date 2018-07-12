@@ -13,7 +13,7 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 
 ## Just swipe
 
-When you swipe to the next slide, everyone on the deck URL sees their screen change immediately too. It works on any device, right in the browser. 
+<span style="color:red"> *some emphasized markdown text*</span>
 
 ![Presenting](https://www.swipe.to/perm-static/intro/presenting-devices.png)
 
