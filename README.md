@@ -3,10 +3,10 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 
 ## Why Inner Source
 
-*Code reuse across the organization grows immensely.
-*This cross-team collaboration becomes relatively frictionless. 
-*Development becomes faster as programmers learn to use unit tests, code coverage, and continuous integration
-*Programmers learn to document their code better, both formally (as in-code comments and documentation) 
+* Code reuse across the organization grows immensely.
+* This cross-team collaboration becomes relatively frictionless. 
+* Development becomes faster as programmers learn to use unit tests, code coverage, and continuous integration
+* Programmers learn to document their code better, both formally (as in-code comments and documentation) 
 
 ### Markdown
 
