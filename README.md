@@ -13,7 +13,7 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 
 <div style="background-color:rgb(192, 192, 192); text-align:center; vertical-align: middle; padding:40px 0;">
 [Click me](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
- <br/>
+
 [Click me](https://github.com/Guavus/tp-demo){: .btn}
  </div>
 
