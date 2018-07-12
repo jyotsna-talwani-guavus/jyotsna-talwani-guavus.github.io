@@ -28,3 +28,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Lorem ipsum dolor sit amet.
 
 [Click me](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
+[Click me](https://github.com/Guavus/tp-demo){: .btn}
