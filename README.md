@@ -9,16 +9,20 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 * Programmers learn to document their code better, both formally (as in-code comments and documentation) 
 
 <div style="background-color:rgb(192, 192, 192); text-align:center; vertical-align: middle; padding:40px 0;">
-[Click me](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
 
-[Click me](https://github.com/Guavus/tp-demo){: .btn}
- </div>
 
 <span style="color:red"> *some emphasized markdown text* </span>
 
 ![Presenting](https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjIm6DupJrcAhVKP48KHf10BQ4QjRx6BAgBEAU&url=https%3A%2F%2Fguavus.com%2Fproducts%2Fguavus-reflex-platform%2F&psig=AOvVaw3aFpx7xUZ1JrVrg5V_lXmI&ust=1531509816776388)
 
+<!-- background: #f39b12 -->
+<!-- color: #fff -->
+<!-- font: frutiger -->
 
+[Click me](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
+
+[Click me](https://github.com/Guavus/tp-demo){: .btn}
+ </div>
 
 <a href="https://github.com/pages-themes/time-machine/zipball/master" class="download-button zip"><span>Download</span></a>
 
