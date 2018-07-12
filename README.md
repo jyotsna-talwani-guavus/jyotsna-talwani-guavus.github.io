@@ -17,7 +17,7 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 
 <span style="color:red"> *some emphasized markdown text* </span>
 
-![Presenting](https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwivvabVo5rcAhXMtI8KHcuRCCsQjRx6BAgBEAU&url=https%3A%2F%2Fwww.sitepen.com%2Fblog%2F2017%2F03%2F23%2Ftime-for-innersource%2F&psig=AOvVaw1VLmIKEQRwko089DMoEIW-&ust=1531509512026607)
+![Presenting](https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjIm6DupJrcAhVKP48KHf10BQ4QjRx6BAgBEAU&url=https%3A%2F%2Fguavus.com%2Fproducts%2Fguavus-reflex-platform%2F&psig=AOvVaw3aFpx7xUZ1JrVrg5V_lXmI&ust=1531509816776388)
 
 
 Lorem ipsum dolor sit amet.
