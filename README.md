@@ -8,12 +8,14 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 * Development becomes faster as programmers learn to use unit tests, code coverage, and continuous integration
 * Programmers learn to document their code better, both formally (as in-code comments and documentation) 
 
-### Markdown
+<!-- background: #ff786c-->
+<!-- color: #fff -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Just swipe
 
-```markdown
-Syntax highlighted code block
+When you swipe to the next slide, everyone on the deck URL sees their screen change immediately too. It works on any device, right in the browser. 
+
+![Presenting](https://www.swipe.to/perm-static/intro/presenting-devices.png)
 
 
 Lorem ipsum dolor sit amet.
