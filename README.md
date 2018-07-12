@@ -11,7 +11,7 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 <!-- background: #ff786c-->
 <!-- color: #fff -->
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+<div style="background-color:rgba(192,192,192,0.3); text-align:center; vertical-align: middle; padding:40px 0;">
  <a href="/donate">DONATE</a>
  </div>
 
