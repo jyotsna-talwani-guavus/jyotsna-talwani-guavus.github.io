@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
-
+## Welcome to Guavus Inner Source 
 You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why Inner Source
 
-You can use the [editor on GitHub](jyotsna-talwani-guavus.github.io/docs/file1.rtf)
+*Code reuse across the organization grows immensely.
+*This cross-team collaboration becomes relatively frictionless. 
+*Development becomes faster as programmers learn to use unit tests, code coverage, and continuous integration
+*Programmers learn to document their code better, both formally (as in-code comments and documentation) 
 
 ### Markdown
 
@@ -13,17 +15,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
 
 Lorem ipsum dolor sit amet.
 
@@ -31,4 +22,3 @@ Lorem ipsum dolor sit amet.
 [Click me](https://github.com/Guavus/tp-demo){: .btn}
 <a href="https://github.com/pages-themes/time-machine/zipball/master" class="download-button zip"><span>Download</span></a>
 
-<a _ngcontent-c6="" class="landing-page-header-btn" href="https://github.com/UXAspects/UXAspects/releases">Download UX Aspects</a>
