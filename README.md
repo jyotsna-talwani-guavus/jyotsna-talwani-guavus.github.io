@@ -12,8 +12,8 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 REFLEX PLATFORM
 </div>
 
-And here's to you, <span style="background-color:green">[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}</span>
-<span style="color:red"> *some emphasized markdown text* </span>
+And here's to you, <span style="background-color:rgb(51,110,255); color:white;">[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}</span>
+
 
 [View on Site](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
 
