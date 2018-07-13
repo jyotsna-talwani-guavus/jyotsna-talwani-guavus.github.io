@@ -16,9 +16,6 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 
 <span style="color:red"> *some emphasized markdown text* </span>
 
-<span style="color:red">[View on Site](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}</span>
+[View on Site](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
 
 [View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
- </div>
-
-<a href="https://github.com/pages-themes/time-machine/zipball/master" class="download-button zip"><span>Download</span></a>
