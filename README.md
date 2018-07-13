@@ -8,22 +8,15 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 * Development becomes faster as programmers learn to use unit tests, code coverage, and continuous integration
 * Programmers learn to document their code better, both formally (as in-code comments and documentation) 
 
-<div style="background-color:rgb(192, 192, 192); text-align:center; vertical-align: middle; padding:40px 0;">
- Hello
-</div>
+ <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+ <a href="/donate">DONATE</a>
+ </div>
 
 <span style="color:red"> *some emphasized markdown text* </span>
 
+<span style="color:red">[View on Site](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}</span>
 
-![An awesome example image](https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io/blob/master/docs/gitlab.png)
-
-[Click me](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
-
-[Click me](https://github.com/Guavus/tp-demo){: .btn}
+[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
  </div>
 
 <a href="https://github.com/pages-themes/time-machine/zipball/master" class="download-button zip"><span>Download</span></a>
-
-Test Change
-
-<a id="forkme_banner" href="https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io">View on GitHub</a>
