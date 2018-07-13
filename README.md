@@ -12,9 +12,6 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
  (http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html)View on Site
 </div>
 
-<div style="background-color:rgba(0, 0, 0, 0.5); text-align:center; vertical-align: middle; padding:40px 0;">
- (https://github.com/Guavus/tp-demo)View on Github
-</div>
 
 
 <span style="color:red"> *some emphasized markdown text* </span>
