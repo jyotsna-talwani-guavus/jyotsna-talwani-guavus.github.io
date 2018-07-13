@@ -14,9 +14,9 @@ REFLEX PLATFORM
 
 And here's to you, 
 
-<span style="background-color:rgb(51,110,255); color:white;">[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}</span>
+<span style="background-color:rgb(51,110,255); color:rgba(0, 0, 0, 1);">[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}</span>
 
 [View on Site](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
 
 
-y
+JT
