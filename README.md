@@ -18,6 +18,18 @@ And here's something for you,
 [View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
 
  <div style="background-color:rgb(36,186,156); text-align:center; vertical-align: middle; padding:40px 0; color:white;">
-CDAP PLUGINS
+Services
 </div>
+
+[View on Site](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Content/Services/Cleanup.htm){: .btn}
+
+[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
+
+<div style="background-color:rgb(192,141,77); text-align:center; vertical-align: middle; padding:40px 0; color:white;">
+Services
+</div>
+
+[View on Site](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Content/Services/Cleanup.htm){: .btn}
+
+[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
 
