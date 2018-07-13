@@ -8,7 +8,7 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 * Development becomes faster as programmers learn to use unit tests, code coverage, and continuous integration
 * Programmers learn to document their code better, both formally (as in-code comments and documentation) 
 
- <div style="background-color:rgba(0, 0, 0, 1); text-align:center; vertical-align: middle; padding:40px 0;">
+ <div style="background-color:rgba(0, 0, 0, 1); text-align:center; vertical-align: middle; padding:40px 0; font color="green" 
 REFLEX PLATFORM
 </div>
 
