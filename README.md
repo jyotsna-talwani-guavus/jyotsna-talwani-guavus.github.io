@@ -10,6 +10,7 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 
  <div style="background-color:rgba(0, 0, 0, 1); text-align:center; vertical-align: middle; padding:40px 0; font color="green" 
 REFLEX PLATFORM
+<span style="color:red"> *some emphasized markdown text* </span>
 </div>
 
 <span style="color:red"> *some emphasized markdown text* </span>
