@@ -12,9 +12,9 @@ You can use the [editor on GitHub](https://github.com/jyotsna-talwani-guavus/jyo
 REFLEX PLATFORM
 </div>
 
-And here's to you, <span style="background-color:green">Mrs. Robinson</span>, Jesus loves you more than you will know.
+And here's to you, <span style="background-color:green">[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}</span>
 <span style="color:red"> *some emphasized markdown text* </span>
 
 [View on Site](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Index.html){: .btn}
 
-[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
+
