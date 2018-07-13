@@ -7,7 +7,7 @@ Guavus’ mission is to bring	advanced analytics through application of data sci
 
 Each analytics module has a specific function and solves business problems. The analytics modules engage with the platform through APIs, calling the necessary algorithms and pulling in the appropriate data to meet the specific needs of the application. It has a modular architecture and registered analytics modules can be combined by an application developer to create an analytics pipeline.
 
- <div style="background-color:rgb(51,172,255); text-align:center; vertical-align: middle; padding:40px 0; color:white;">
+ <div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; color:white;">
 CDAP PLUGINS
 </div>
 
@@ -17,7 +17,7 @@ And here's something for you,
 
 [View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
 
- <div style="background-color:rgb(66,51,255); text-align:center; vertical-align: middle; padding:40px 0; color:white;">
+ <div style="background-color:rgb(36,186,156); text-align:center; vertical-align: middle; padding:40px 0; color:white;">
 CDAP PLUGINS
 </div>
 
