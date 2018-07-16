@@ -1,5 +1,6 @@
 ![Reflex Platform](docs/Reflex-Platform.png)
 
+->THIS TEXT IS IN THE CENTER!<- 
 
 <div style="background-color:rgb(186,94,2); text-align:center; vertical-align: middle; padding:40px 0; font-size: 3em; color:white;">Reflex Overview</div>
 
