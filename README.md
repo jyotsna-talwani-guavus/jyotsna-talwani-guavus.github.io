@@ -1,5 +1,5 @@
 
-<div style="background-color:rgb(186,94,2); text-align:center; vertical-align: middle; padding:40px 0; font-size: 3em; color:white;">Reflex Overview</div>
+<div style="background-color:rgb(186,94,2); text-align:center; vertical-align: middle; padding:40px 0; font-size: 3em; color:white;">Overview</div>
 <div style="background-color:rgb(186,94,2); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
 
 The Reflex provisioner is an Ansible-based mechanism that provides playbooks to set up and configure all sub components of the Reflex platform.
