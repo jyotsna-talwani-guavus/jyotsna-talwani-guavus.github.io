@@ -16,12 +16,10 @@ Each analytics module has a specific function and solves business problems. The 
 
  <div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; color:white;">
 [View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
- 
- [![button](https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io/blob/master/docs/ViewonSite-img.png)](https://guavusreflexplatform.gitbook.io/security/)
 
 </div>
 
-[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://mattermost.com)
+ [![button](https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io/blob/master/docs/ViewonSite-img.png)](https://guavusreflexplatform.gitbook.io/security/)
 
 And here's something for you,
 
