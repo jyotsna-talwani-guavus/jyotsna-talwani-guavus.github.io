@@ -16,9 +16,9 @@ You can rapidly build additional Big Data analytics applications using the in-bu
 [![button](docs/click-here-button.png)](https://guavusreflexplatform.gitbook.io/reflex-platform-accelerators/) [![button](docs/click-here-github.png)](https://github.com/abhilasha-garg-guavus/reflexPlatformAccelerators)
 
 
-<div style="background-color:rgb(0,76,153); text-align:center; vertical-align: middle; padding:40px 0; font-size: 3em; color:white;">Security </div>
+<div style="background-color:rgb(0,51,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 3em; color:white;">Security </div>
 
-<div style="background-color:rgb(0,76,153); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
+<div style="background-color:rgb(0,51,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
 
 
 Reflex provides Platform and Application Security through Ranger, Knox.
