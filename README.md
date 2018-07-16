@@ -19,7 +19,7 @@ Each analytics module has a specific function and solves business problems. The 
 
 </div>
 
- [![button](https://wallpaperbrowse.com/media/images/soap-bubble-1958650_960_720.jpg)(https://guavusreflexplatform.gitbook.io/security/)
+ ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 And here's something for you,
 
