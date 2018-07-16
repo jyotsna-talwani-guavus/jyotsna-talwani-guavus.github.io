@@ -2,7 +2,7 @@
 
 <div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
 
-The Reflex provisioner is an Ansible-based mechanism that provides playbooks to set up and configure all sub components of the Reflex platform namely Repositories, Container Framework, Hortonworks stack and other third-party components.</div>
+The Reflex provisioner is an Ansible-based mechanism that provides playbooks to set up and configure all sub components of the Reflex platform.</div>
 
 [![button](docs/click-here-button.png)](https://guavusreflexplatform.gitbook.io/reflex-platform-overview/) [![button](docs/click-here-github.png)](https://github.com/abhilasha-garg-guavus/reflexPlatformOverview)
 
