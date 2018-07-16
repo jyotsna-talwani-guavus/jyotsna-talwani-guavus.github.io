@@ -9,7 +9,7 @@ Each analytics module has a specific function and solves business problems. The 
 
 ## Reflex Accelerators
 
-
+![Screenshot](docs/ViewonSite-img.png)
 ## UX Aspects
 
 <div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:white;">Security</div>
