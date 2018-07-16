@@ -19,7 +19,7 @@ Each analytics module has a specific function and solves business problems. The 
 
 </div>
 
- [![button](https://github.com/jyotsna-talwani-guavus/jyotsna-talwani-guavus.github.io/blob/master/docs/ViewonSite-img.png)](https://guavusreflexplatform.gitbook.io/security/)
+ [![button](https://www.iconspng.com/image/116163/aquabutton)](https://guavusreflexplatform.gitbook.io/security/)
 
 And here's something for you,
 
