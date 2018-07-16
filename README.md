@@ -1,4 +1,4 @@
-<div style="background-color:rgb(0,102,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:white;">Reflex Overview</div>
+<div style="background-color:linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:white;">Reflex Overview</div>
 
 <div style="background-color:rgb(0,102,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
 
