@@ -19,7 +19,7 @@ Each analytics module has a specific function and solves business problems. The 
 
 </div>
 
- [![button](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Content/Resources/Images/common-icon-notification-new.png](https://guavusreflexplatform.gitbook.io/security/)
+ [![button](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Content/Resources/Images/common-icon-notification-new.png])(https://guavusreflexplatform.gitbook.io/security/)
 
 And here's something for you,
 
