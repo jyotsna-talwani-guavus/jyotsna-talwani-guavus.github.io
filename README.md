@@ -17,7 +17,7 @@ The Reflex provisioner is an Ansible-based mechanism that provides playbooks to 
 
 You can rapidly build additional Big Data analytics applications using the in-built Accelerators and MicroApps.</div>
 
-[![button](docs/click-here-button.png)](https://guavusreflexplatform.gitbook.io/reflex-platform-accelerators/) [![button](docs/click-here-github.png)](https://github.com/abhilasha-garg-guavus/reflexPlatformAccelerators)
+[![button](docs/ButtonClick'.png)](https://guavusreflexplatform.gitbook.io/reflex-platform-accelerators/) [![button](docs/click-here-github.png)](https://github.com/abhilasha-garg-guavus/reflexPlatformAccelerators)
 
 
 <div style="background-color:rgb(0,51,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 3em; color:white;">Security </div>
