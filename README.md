@@ -1,14 +1,14 @@
-<div style="background-color:rgb(0,102,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:black;">Reflex Overview</div>
+<div style="background-color:rgb(153,76,0); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:black;">Reflex Overview</div>
 
-<div style="background-color:rgb(0,102,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
+<div style="background-color:rgb(153,76,0); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
 
 The Reflex provisioner is an Ansible-based mechanism that provides playbooks to set up and configure all sub components of the Reflex platform.</div>
 
 [![button](docs/click-here-button.png)](https://guavusreflexplatform.gitbook.io/reflex-platform-overview/) [![button](docs/click-here-github.png)](https://github.com/abhilasha-garg-guavus/reflexPlatformOverview)
 
-<div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:white;">Accelerators</div>
+<div style="background-color:rgb(0,102,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:white;">Accelerators</div>
 
-<div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
+<div style="background-color:rgb(0,102,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
 
 
 You can rapidly build additional Big Data analytics applications using the in-built Accelerators and MicroApps.</div>
