@@ -1,51 +1,37 @@
-## Guavus Reflex
-Guavus Reflex® consists of a hardened and highly secure Base Processing Platform (BPP) and Analytics Fabric (RAF) that help you transform the way you design big data applications. You can leverage the Artificial Intelligence (AI) and Machine Learning (ML) based analytics already built into it to gain a competitive edge by putting all your data to work, uncovering new insights and making better quality and timely decisions.
+<div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:white;">Reflex Overview</div>
 
-## Reflex Platform Overview
+<div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
 
-Guavus’ mission is to bring	advanced analytics through application of data science that improves efficiency, increases revenue, and saves money for organizations. RAF provides Guavus’ advanced analytics functions and integration of all the technologies needed to implement advanced analytics applications.
+The Reflex provisioner is an Ansible-based mechanism that provides playbooks to set up and configure all sub components of the Reflex platform namely Repositories, Container Framework, Hortonworks stack and other third-party components.</div>
 
-Each analytics module has a specific function and solves business problems. The analytics modules engage with the platform through APIs, calling the necessary algorithms and pulling in the appropriate data to meet the specific needs of the application. It has a modular architecture and registered analytics modules can be combined by an application developer to create an analytics pipeline.
+[![button](docs/click-here-button.png)](https://guavusreflexplatform.gitbook.io/reflex-platform-overview/) [![button](docs/click-here-github.png)](https://github.com/abhilasha-garg-guavus/reflexPlatformOverview)
 
-## Reflex Accelerators
+<div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:white;">Accelerators</div>
 
-<div div align="center" style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:white;">Security </div>
+<div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
 
- <div div align="center" style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; color:white;">
-[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}</div>
+
+You can rapidly build additional Big Data analytics applications using the in-built Accelerators and MicroApps.</div>
+
+[![button](docs/click-here-button.png)](https://guavusreflexplatform.gitbook.io/reflex-platform-accelerators/) [![button](docs/click-here-github.png)](https://github.com/abhilasha-garg-guavus/reflexPlatformAccelerators)
+
+
+<div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:white;">Security </div>
+
+<div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
+
+
+Reflex provides Platform and Application Security through Ranger, Knox.
+</div>
 
 [![button](docs/click-here-button.png)](https://guavusreflexplatform.gitbook.io/security/) [![button](docs/click-here-github.png)](https://github.com/abhilasha-garg-guavus/ReflexSecurity)
 
-## UX Aspects
 
-<div align="center" style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:white;">Security</div>
+<div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 4em; color:white;">UX Aspects</div>
 
- <div align="center" style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; color:white;">
-[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
+<div style="background-color:rgb(53,118,158); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
 
+The ease of expressing a UX design would be of greater importance to you when providing a differentiated user experience.
 </div>
 
- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-And here's something for you,
-
-[View on Site](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Content/Plugins/Guavus%20CDAP%20Plugins.htm){: .btn}
-
-[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
-
- <div style="background-color:rgb(36,186,156); text-align:center; vertical-align: middle; padding:40px 0; color:white;">
-Services
-</div>
-
-[View on Site](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Content/Services/Cleanup.htm){: .btn}
-
-[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
-
-<div style="background-color:rgb(192,141,77); text-align:center; vertical-align: middle; padding:40px 0; color:white;">
-Services
-</div>
-
-[View on Site](http://techpubs.ggn.in.guavus.com/OnlineHelp/ReflexPlatform/Launch%20Dashboard/Content/Services/Cleanup.htm){: .btn}
-
-[View on GitHub](https://github.com/Guavus/tp-demo){: .btn}
-
+[![button](docs/click-here-button.png)](https://guavusreflexplatform.gitbook.io/ux/) [![button](docs/click-here-github.png)](https://github.com/abhilasha-garg-guavus/UX)
