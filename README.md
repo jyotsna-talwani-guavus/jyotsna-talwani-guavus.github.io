@@ -5,6 +5,15 @@ Guavus Reflex is a highly scalable and feature-rich platform that provides you a
 
 [![button](docs/viewonsite1.png)](https://guavusreflexplatform.gitbook.io/reflex-platform-overview/) [![button](docs/viewongithub.png)](https://github.com/abhilasha-garg-guavus/reflexPlatformOverview)
 
+<div style="background-color:rgb(153,153,0); text-align:center; vertical-align: middle; padding:40px 0; font-size: 3em; color:white;">UX Aspects</div>
+
+<div style="background-color:rgb(153,153,0); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
+
+The ease of expressing a UX design would be of greater importance to you when providing a differentiated user experience.
+</div>
+
+[![button](docs/viewonsite1.png)](https://guavusreflexplatform.gitbook.io/ux/) [![button](docs/viewongithub.png)](https://github.com/Guavus/user-management)
+
 <div style="background-color:rgb(0,102,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 3em; color:white;">Accelerators</div>
 
 <div style="background-color:rgb(0,102,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
@@ -22,11 +31,4 @@ Reflex provides Platform and Application Security through Ranger, Knox.
 
 [![button](docs/viewonsite1.png)](https://guavusreflexplatform.gitbook.io/security/) [![button](docs/viewongithub.png)](https://github.com/abhilasha-garg-guavus/ReflexSecurity)
 
-<div style="background-color:rgb(153,153,0); text-align:center; vertical-align: middle; padding:40px 0; font-size: 3em; color:white;">UX Aspects</div>
 
-<div style="background-color:rgb(153,153,0); text-align:center; vertical-align: middle; padding:40px 0; font-size: 1.2em; color:white;">
-
-The ease of expressing a UX design would be of greater importance to you when providing a differentiated user experience.
-</div>
-
-[![button](docs/viewonsite1.png)](https://guavusreflexplatform.gitbook.io/ux/) [![button](docs/viewongithub.png)](https://github.com/abhilasha-garg-guavus/UX)
