@@ -12,7 +12,7 @@ Guavus Reflex is a highly scalable and feature-rich platform that provides you a
 The ease of expressing a UX design would be of greater importance to you when providing a differentiated user experience.
 </div>
 
-[![button](docs/viewonsite1.png)](https://guavusreflexplatform.gitbook.io/ux/) [![button](docs/viewongithub.png)](https://github.com/Guavus/user-management)
+[![button](docs/viewonsite1.png)](https://usermanagement.gitbook.io/um/) [![button](docs/viewongithub.png)](https://github.com/Guavus/user-management)
 
 <div style="background-color:rgb(0,102,102); text-align:center; vertical-align: middle; padding:40px 0; font-size: 3em; color:white;">Accelerators</div>
 
